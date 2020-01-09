@@ -1,0 +1,15 @@
+.MMM-NavigationBar .naviContainer {
+  margin: auto auto;
+  #width: 600px;
+}
+
+.MMM-NavigationBar .naviContainer .naviButton {
+  #font-size: 24px;
+  #float: left;
+  border: 1px white solid;
+  border-radius: 2px;
+  padding: 5px;
+  margin: 10px 30px;
+}
+
+
